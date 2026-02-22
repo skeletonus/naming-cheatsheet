@@ -3,7 +3,7 @@
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
   </a>
 </p>
-branch2 версия 2
+branch2 версия 3
 # Naming cheatsheet
 
 - [English language](#english-language)
